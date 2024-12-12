@@ -9,6 +9,6 @@ public class Test : Controller
     [HttpGet]
     public string GetName()
     {
-        return "Kyrgyzstan";
+        return "Kyrgyzstan Bishkek1234567890";
     }
 }
